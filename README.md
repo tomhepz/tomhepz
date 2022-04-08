@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Studying Physics & Computer Science student at Durham University, UK.
+Physics & Computer Science student.
 
 I sometimes write articles on [my blog](https://tomhepz.com).
