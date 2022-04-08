@@ -1,4 +1,4 @@
-### Hi there 👋
+## 🔭 tomhepz
 
 <!--
 **tomhepz/tomhepz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Studying Physics & Computer Science student at Durham University, UK.
+
+I sometimes write articles on [my blog](https://tomhepz.com).
